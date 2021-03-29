@@ -1,0 +1,6 @@
+{
+	"port": 8080,
+	"bodyLimit": "4080kb",
+	"corsHeaders": ["Link"],
+	"logPath" : "./Logs/"
+}
